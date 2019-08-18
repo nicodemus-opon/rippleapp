@@ -5,7 +5,8 @@
  * Date: 2019-02-10
  * Time: 07:43
  */ ?>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <!-- Required meta tags always come first -->
     <meta charset="utf-8">

@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class tasks extends CI_Controller
+class Upload extends CI_Controller
 {
 
     /**
@@ -21,6 +21,6 @@ class tasks extends CI_Controller
      */
     public function index()
     {
-        $this->load->view('Tasks');
+        $this->load->view('Upload');
     }
 }

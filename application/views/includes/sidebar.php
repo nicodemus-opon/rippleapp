@@ -69,7 +69,7 @@
 <!-- Main Sidebar-->
 <div class="main-sidebar">
     <div class="sidebar-brand">
-        <a href="#"><img src="assets/images/logo/nephos.svg" alt=""></a>
+        <a href="#"><img src="assets/images/avatar/adam.png" alt=""></a>
     </div>
     <div class="sidebar-inner">
         <ul class="icon-menu">
@@ -100,4 +100,70 @@
 </div>
 <!-- /Main Sidebar-->
 
-
+<div class="shop-quickview has-background-image" data-background="assets/images/bg/sidebar.jpeg">
+    <div class="inner">
+        <!-- Header -->
+        <div class="quickview-header">
+            <h2>RippleTune</h2>
+            <span id="close-shop-sidebar"><i data-feather="x"></i></span>
+        </div>
+        <!-- Shop menu -->
+        <ul class="shop-menu">
+            <li>
+                <a href="dashboard">
+                    <span>Releases</span>
+                    <i data-feather="grid"></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span>Streams & Revenue</span>
+                    <i data-feather="bar-chart-2"></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span>Submissions</span>
+                    <i data-feather="package"></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span>Account</span>
+                    <i data-feather="user"></i>
+                </a>
+            </li>
+        </ul>
+        <!-- Profile image -->
+        <ul class="user-profile">
+            <li>
+                <a href="account.html">
+                    <img src="assets/images/avatars/altvatar.png.jpeg" alt="">
+                    <span class="user">
+                                <span>Guest</span>
+                                <span> <small>Standard</small></span>
+                            </span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- Cart quickview -->
+<div class="cart-quickview">
+    <div class="inner">
+        <!-- Header -->
+        <div class="quickview-header">
+            <h2> Uploads</h2>
+            <span id="close-cart-sidebar"><i data-feather="x"></i></span>
+        </div>
+        <!-- Cart quickview body -->
+        <div class="cart-body">
+            <div class="empty-cart has-text-centered">
+                <h3>Current catalog empty</h3>
+                <img src="assets/images/feather/upload.svg" alt="">
+                <a href="upload" class="button big-button rounded">Upload Music</a>
+                <small>You can create your account later</small>
+            </div>
+        </div>
+    </div>
+</div>

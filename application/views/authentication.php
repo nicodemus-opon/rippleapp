@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <?php
 $this->load->view('includes/head');
 ?>
@@ -15,73 +14,7 @@ $this->load->view('includes/head');
         <!-- Categories Right quickview -->
 
         <!-- Shop quickview -->
-        <div class="shop-quickview has-background-image" data-background="assets/images/bg/sidebar.jpeg">
-            <div class="inner">
-                <!-- Header -->
-                <div class="quickview-header">
-                    <h2>Nephos</h2>
-                    <span id="close-shop-sidebar"><i data-feather="x"></i></span>
-                </div>
-                <!-- Shop menu -->
-                <ul class="shop-menu">
-                    <li>
-                        <a href="shop.html">
-                            <span>Shop</span>
-                            <i data-feather="grid"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="account.html">
-                            <span>My Account</span>
-                            <i data-feather="user"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="orders.html">
-                            <span>My Orders</span>
-                            <i data-feather="credit-card"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="wishlist.html">
-                            <span>My Wishlists</span>
-                            <i data-feather="heart"></i>
-                        </a>
-                    </li>
-                </ul>
-                <!-- Profile image -->
-                <ul class="user-profile">
-                    <li>
-                        <a href="account.html">
-                            <img src="assets/images/avatars/altvatar.png.jpeg" alt="">
-                            <span class="user">
-                                <span>Guest</span>
-                                <span>0 <small>Items in Cart</small></span>
-                            </span>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <!-- Cart quickview -->
-        <div class="cart-quickview">
-            <div class="inner">
-                <!-- Header -->
-                <div class="quickview-header">
-                    <h2> Uploads</h2>
-                    <span id="close-cart-sidebar"><i data-feather="x"></i></span>
-                </div>
-                <!-- Cart quickview body -->
-                <div class="cart-body">
-                    <div class="empty-cart has-text-centered">
-                        <h3>Current catalog empty</h3>
-                        <img src="assets/images/feather/upload.svg" alt="">
-                        <a href="shop.html" class="button big-button rounded">Upload Music</a>
-                        <small>You can create your account later</small>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <!-- Main wrapper -->
         <div class="shop-wrapper">
         
@@ -209,9 +142,6 @@ $this->load->view('includes/head');
             </div>
             <!-- /Main section -->
         </div>
-        <!-- /Main wrapper -->
-        <!-- Concatenated plugins -->
-        <script src="assets/js/app.js"></script>
-        <!-- Helios js -->
-        <script src="assets/js/nephos.js"></script>    </body>  
-</html>
+<?php
+$this->load->view('includes/end');
+?>
