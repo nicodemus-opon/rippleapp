@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23985504-e40b-417c-9892-ec09303fb233" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/application/views/Account.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/views/Four.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/views/Upload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Notes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Tasks.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Upload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/Dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/authentication.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/authentication.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/includes/end.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/includes/end.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/includes/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/includes/head.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/includes/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/includes/sidebar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo/nephos-greyscale.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/nephos-greyscale.svg" afterDir="false" />
-    </list>
+    <list default="true" id="23985504-e40b-417c-9892-ec09303fb233" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,12 +189,12 @@
       <workItem from="1565070018944" duration="4193000" />
       <workItem from="1565853643630" duration="658000" />
       <workItem from="1566029045094" duration="961000" />
-      <workItem from="1566109210528" duration="572000" />
+      <workItem from="1566109210528" duration="786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17299000" />
+    <option name="totallyTimeSpent" value="17513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
